@@ -7,13 +7,13 @@ As an experienced Software Developer - AI Trainer at Data Annotation and Outlier
 Throughout my work, I have utilized my expertise in Python, SQL, R, JSON, and various markup languages to provide high-quality training data and insightful feedback. I have leveraged my knowledge in calculus, probability, statistics, combinatorics, linear algebra, and set theory to train chatbots in advanced mathematics. Additionally, my background in academic philosophy has been instrumental in developing AI models capable of nuanced ethical reasoning, logical argumentation, and handling complex philosophical concepts.
 
 ### Projects
-1. **Data Science, Data Analysis in Python, and more**: Work largely from my graduate program in Data Science, including ongoing work on a Digital Humanities project employing LDA for topic modeling, ARIMA and Prophet for time series analysis, RF regression, and K-means clustering on the work of the Church Fathers.
-2. **Single-Sided Instruction Following**: Evaluated model responses for adherence to user instructions and provided detailed rationales for each assessment.
-3. **Compare Coding Responses**: Compared and rated model responses for coding tasks based on various criteria, including overall quality, correctness, functionality, instruction following, helpfulness, writing style, verbosity, and harmlessness. Provided explanations for issues identified and preference rationales.
-4. **Compare Coding Responses and Edit**: Built upon the Compare Coding Responses project by editing model responses to significantly improve their quality and functionality.
-5. **Write Prompts, Compare Coding Responses (and sometimes Edit)**: Developed prompts and reference implementations to iteratively refine model responses through multiple conversation turns and assess response quality.
-6. **Evaluate Math Models**: Assessed the accuracy of model responses to advanced mathematics prompts and provided corrected responses in LaTeX formatting when necessary.
-7. **Compare Responses for Data Analysis and Visualization**: Evaluated model responses for data analysis and visualization tasks by running the provided code in a local environment and comparing the results.
+- [Data Science and Data Analysis in Python](https://github.com/tyronemyers/data-science-python)
+- [Single-Sided Instruction Following](https://github.com/tyronemyers/single-sided-instruction-following)
+- [Compare Coding Responses](https://github.com/tyronemyers/compare-coding-responses)
+- [Compare Coding Responses and Edit](https://github.com/tyronemyers/compare-coding-responses-edit)
+- [Write Prompts, Compare Coding Responses (and sometimes Edit)](https://github.com/tyronemyers/write-prompts-compare-responses)
+- [Evaluate Math Models](https://github.com/tyronemyers/evaluate-math-models)
+- [Compare Responses for Data Analysis and Visualization](https://github.com/tyronemyers/compare-data-analysis-responses)
 
 ### Skills
 - Programming languages: Python, R, SQL, HTML, Javascript, JSON
@@ -29,7 +29,7 @@ Throughout my work, I have utilized my expertise in Python, SQL, R, JSON, and va
 - Prompt engineering and structured data generation
 - Multi-turn conversation management and context retention
 - Iterative model response refinement
-- Philosophy: Logic, ethics, epistemology, metaphysics, philosophy of science, and philosophy of religion
+- Philosophy: Ethical reasoning, logic, epistemology, metaphysics, philosophy of science
 - Philosophical writing and argumentation
 - Application of philosophical concepts to AI ethics and decision-making
 
@@ -42,4 +42,4 @@ Throughout my work, I have utilized my expertise in Python, SQL, R, JSON, and va
 - Integrated philosophical reasoning into AI models, enhancing their ability to handle complex ethical dilemmas and abstract concepts
 - Developed prompts and evaluation criteria for assessing AI models' capacity for logical argumentation and philosophical analysis
 
-Please feel free to explore the individual project folders for detailed descriptions, sample tasks, and examples of my work.
+Please feel free to explore the individual project repositories for detailed descriptions, sample tasks, and examples of my work.
